@@ -1,0 +1,101 @@
+
+
+body{
+    background-image: url(img/back2222.jpg);  
+    background-repeat: repeat;
+    
+    
+}
+
+#container_inicio{
+    padding-top:40px;
+   
+   }
+
+   #titlePF{
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 50pt;
+   }
+   
+
+/* Texto de Apresentação*/
+#txtApresentacao{
+
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+ font-size: 15pt;
+ color:#6E0000
+ 
+
+   
+}
+
+/*font barra de navegação*/
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+
+h1{
+    color: #6E0000;
+    text-align:center;
+   font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40pt;
+    padding-top: 50px;
+    padding-bottom: 35px;
+   
+}
+
+/* font do formulario*/
+label{
+    color:#6E0000;
+}
+
+	
+	/* texto col lado esquerdo Apresentaçao*/	
+#colDes{
+    text-align: center;
+     color: #6E0000;    
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+#img {
+    
+    -webkit-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    margin-bottom:20px;    
+    margin-top: 15px;   
+     display: block;
+    margin-left: auto;
+    margin-right: auto;     
+   
+                   
+}
+
+
+#img2{
+    border: 4px solid silver;
+    border-radius: 2px;
+    
+    -webkit-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    margin-bottom:20px;    
+    margin-top: 15px;   
+     display: block;
+    margin-left: auto;
+    margin-right: auto; 
+;
+
+}
+#map{
+   margin-left: 15%;
+
+}
+
+
+
